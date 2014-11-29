@@ -4,7 +4,7 @@
 	Question at http://www.spoj.com/problems/COT/
 	O( (N+M) * log N )
 */
-
+// author anudeep2011
 #include <cstdio>
 #include <map>
 #include <vector>
